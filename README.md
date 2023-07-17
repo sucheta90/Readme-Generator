@@ -33,7 +33,7 @@ Creates a professional README markdown.
 
 ## License
 
-This project is licensed under MIT License
+This project is licensed under `MIT License`
 
 ## Credits
 
@@ -41,7 +41,7 @@ I would like to mention `shields.io` for the cool badges and `inquirer.js`.
 
 ## Features
 
-N/A
+The licence badge can be clicked to view the license.
 
 ## How to Contribute
 
