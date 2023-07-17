@@ -28,7 +28,7 @@ Clone the Repository on your local computer, run an `npm install` - command and 
 Creates a professional README markdown.
 
 <p align='center'>
-<img src='./assets/Screenshot 2023-07-17 at 7.29.10 PM.png'>
+<img src='./assets/Screenshot 2023-07-17 at 7.29.10 PM.png' alt="screenshot">
 </p>
 
 ## License
