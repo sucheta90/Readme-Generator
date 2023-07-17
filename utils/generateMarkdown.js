@@ -68,7 +68,9 @@ ${data.usage}
 
 ## License
 
-This project is licensed under \`${data.license}\`
+This project is licensed under \`${
+    data.license
+  }\`. To view fine-prints, please click the badge on the top of the page.
 
 ## Credits
 ${data.credits}
