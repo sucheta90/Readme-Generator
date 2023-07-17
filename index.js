@@ -29,11 +29,13 @@ const questions = [
     type: "input",
     name: "installation",
     message: "What are the steps required to install your project? ",
+    default: "N/A",
   },
   {
     type: "input",
     name: "usage",
     message: "Describe the usage of your project: ",
+    default: "N/A",
   },
   {
     type: "list",
@@ -53,29 +55,34 @@ const questions = [
       "Mozilla Public License 2.0",
       "The Unlicense",
     ],
-    default: "None",
+    default: 0,
     message: "Please select the preferred license: ",
+    loop: false,
   },
   {
     type: "input",
     name: "credits",
     message:
       "Would you like to credit someone or any website or tools that might have been helpful while building it? ",
+    default: "N/A",
   },
   {
     type: "input",
     name: "features",
     message: "What are special features does the project demonstrates? ",
+    default: "N/A",
   },
   {
     type: "input",
     name: "contribution",
     message: "Please describe steps to contribute to this project? ",
+    default: "N/A",
   },
   {
     type: "input",
     name: "test",
     message: "Describe the steps to run a test: ",
+    default: "N/A",
   },
 ];
 
